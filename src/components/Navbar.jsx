@@ -10,7 +10,7 @@ function Navbar() {
             </div>
                           
             <div className="right-side-nk">
-                <img className="w-64" src='../../img/coderightbanenr.png'/>
+                <img className="w-64" src='img/coderightbanenr.png'/>
             </div> 
         </div>
     )

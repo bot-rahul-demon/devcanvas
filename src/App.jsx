@@ -52,7 +52,7 @@ function App() {
           {/* Html Editor */}
           <div className="bg-[#282c34] p-4 rounded-lg shadow">
             <h2 className="text-lg font-semibold mb-2 text-white">HTML 
-            <img className=" w-8	float-right" src="../../img/html.png" />
+            <img className=" w-8	float-right" src="img/html.png" />
             </h2>
            
             <CodeMirror
@@ -69,7 +69,7 @@ function App() {
           {/* Css Editor  */}
           <div className="bg-[#282c34] p-4 rounded-lg shadow">
             <h2 className="text-lg font-semibold mb-2 text-white">CSS
-            <img className=" w-8	float-right" src="../../img/css-3.png" />
+            <img className=" w-8	float-right" src="img/css-3.png" />
             </h2>
             <CodeMirror
               className="text-xl border-gray-600 border"
@@ -85,7 +85,7 @@ function App() {
           {/* JavaScript Editor  */}
           <div className="bg-[#282c34] p-4 rounded-lg shadow">
             <h2 className="text-lg font-semibold mb-2 text-white">JavaScript
-            <img className=" w-8	float-right" src="../../img/js.png" />
+            <img className=" w-8	float-right" src="img/js.png" />
             </h2>
             <CodeMirror
               className="text-xl border-gray-600 border"
